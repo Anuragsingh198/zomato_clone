@@ -1,0 +1,9 @@
+.explore-section{
+     margin-top: 16px;
+}
+
+.collection-gird{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
